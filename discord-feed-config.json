@@ -6,15 +6,15 @@
     "events": {
       "deaths": true,
       "extracts": true,
-      "runThroughs": true,
+      "runThroughs": false,
       "loot": true,
-      "quests": true,
+      "quests": false,
       "bossKills": true,
-      "levelUps": true,
-      "achievements": true
+      "levelUps": false,
+      "achievements": false
     },
     "loot": {
-      "minimumValue": 1000000
+      "minimumValue": 5000000
     },
     "screenshots": {
       "enabled": false,
